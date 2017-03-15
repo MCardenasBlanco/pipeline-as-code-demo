@@ -1,6 +1,6 @@
 #!groovy
 
-//Comments included.
+//Comments included. Comments included on the project to be checked out.
 
 stage 'Dev'
 node ('docker-cloud') {
